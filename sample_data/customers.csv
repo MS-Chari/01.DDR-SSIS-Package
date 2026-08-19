@@ -1,0 +1,6 @@
+CustomerId,CustomerName,Email,CountryCode,ModifiedDate
+1001,Asha Rao,asha@example.com,IN,2026-08-18 10:15:00
+1002,Ravi Kumar,ravi@example.com,IN,2026-08-18 10:20:00
+1003,John Smith,john@example.com,US,2026-08-18 10:25:00
+1004,Meera Das,meera@example.com,IN,2026-08-19 09:10:00
+1005,Daniel Lee,daniel@example.com,SG,2026-08-19 09:30:00
